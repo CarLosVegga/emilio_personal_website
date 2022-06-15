@@ -1,0 +1,49 @@
+* {
+    font-family: 'Mulish', sans-serif;
+}
+
+/* HEADER */
+
+img {
+    border-bottom-left-radius: 100px;
+    border-top-right-radius: 80px;
+    border-top-left-radius: 10px;
+    height: 400px;
+    margin-left: 5%;
+    margin-right: 10%;
+    margin-bottom: 5%;
+    float: left;
+}
+
+.presentation {
+    margin-right: 10%;
+    margin-bottom: 5%;
+    float: right;
+}
+
+.presentation p { 
+    color: #2C5784;
+    font-size: 30px;
+}
+
+h1 {
+    margin-top: 50px;
+    letter-spacing: 2px;
+    font-size: 300%;
+    color: white;
+    font-weight: bold;
+}
+
+.header {
+    background: linear-gradient(to right top, #FFFFFF, #5688c7);
+    overflow: auto;
+    display: flex;
+}
+
+button {
+    width: 150px;
+    height: 30px;
+    font-size: 15px;
+}
+
+/*BIO*/
